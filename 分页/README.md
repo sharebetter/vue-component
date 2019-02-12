@@ -1,1 +1,1 @@
-![后台管理系统](https://github.com/sharebetter/vue-component/blob/master/itemImgs/manage3.png)
+![page分页](https://github.com/sharebetter/vue-component/blob/master/itemImgs/page.jpg)
